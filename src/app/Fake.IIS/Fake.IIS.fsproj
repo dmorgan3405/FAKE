@@ -49,6 +49,7 @@
     <None Include="paket.references" />
     <None Include="Script.fsx" />
     <None Include="app.config" />
+    <Compile Include="IISConfiguration.fs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\FakeLib\FakeLib.fsproj">

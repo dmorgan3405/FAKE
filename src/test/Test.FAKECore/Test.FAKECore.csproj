@@ -83,6 +83,7 @@
     <Compile Include="Globbing\TestSample4\GlobbingSample4Specs.cs" />
     <Compile Include="Globbing\TestSample3\GlobbingSample3Specs.cs" />
     <Compile Include="Globbing\TestSample5\AbsoluteDirGlobbingSpecs.cs" />
+    <Compile Include="IISConfigurationSpecs.cs" />
     <Compile Include="NAVFiles\NAVSplitObjectSpecs.cs" />
     <Compile Include="NAVFiles\NavTestResultSpecs.cs" />
     <Compile Include="NunitCommonSpecs.cs" />
